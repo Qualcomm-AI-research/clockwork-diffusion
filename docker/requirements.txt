@@ -1,0 +1,7 @@
+accelerate==0.26.1
+diffusers==0.25.0
+jupyter==1.0.0
+pytest==7.4.4
+torch==2.1.2
+transformers==4.36.2
+
